@@ -9,7 +9,16 @@ Pandas Basics:
 -columns
 -dtypes
 
+##Day2
+
+-multiple columns.
+-only wants one city students.
+-advance filtering.
+-sort_values.
+
+
 ##Technology used:
 -Python
 -Git
 -Github
+
