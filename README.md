@@ -16,6 +16,11 @@ Pandas Basics:
 -advance filtering.
 -sort_values.
 
+##Day3
+
+-We use health care data set
+-PANDAS HEALTHCARE TEST
+
 
 ##Technology used:
 -Python
