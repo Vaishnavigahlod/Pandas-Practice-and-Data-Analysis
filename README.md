@@ -21,6 +21,10 @@ Pandas Basics:
 -We use health care data set
 -PANDAS HEALTHCARE TEST
 
+##Day4
+-LOC FUNCTION-
+: we use it for label or condition.
+
 
 ##Technology used:
 -Python
