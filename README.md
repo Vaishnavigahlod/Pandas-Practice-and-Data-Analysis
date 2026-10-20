@@ -26,6 +26,18 @@ Pandas Basics:
 -LOC FUNCTION-
 : we use it for label or condition.
 
+##Day5
+
+-ILOC FUNCTION:
+
+##Day6
+
+-UNIQUE FUNCTION [unique()] 
+-NUNUNIQUE FUNCTION [nunique()] 
+-VALUE COUNT FUNCTION [value_counts()]
+-STANDARD FUNCTION [std()]
+
+
 
 ##Technology used:
 -Python
