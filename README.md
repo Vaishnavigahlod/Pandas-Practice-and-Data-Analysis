@@ -37,11 +37,11 @@ Pandas Basics:
 -VALUE COUNT FUNCTION [value_counts()]
 -STANDARD FUNCTION [std()]
 
-##Day6
+##Day7
 
 - ISNULL , ISNULL().SUM()
 
-##Day7
+##Day8
 
 -LOC and ILOC practice
 
