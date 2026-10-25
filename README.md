@@ -45,6 +45,16 @@ Pandas Basics:
 
 -LOC and ILOC practice
 
+##Day9
+
+-isnull()
+-dropna()
+-fillna()
+
+##Day10
+
+-Standard function[std()] : standard deviation tell us hou much data is spread
+
 ##Technology used:
 -Python
 -Git
