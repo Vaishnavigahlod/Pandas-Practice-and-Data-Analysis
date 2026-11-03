@@ -77,6 +77,23 @@ MOVES DATA
 -9)Gross: total money earned by the movie at box office
 -10)Metascore: score given by the critics/experts out of 100
 
+##Day13
+
+*TOPICS*
+
+-left join.
+-right join.
+-inner join.
+-outer join.
+
+##Day14
+
+-Practice of movie data analysis
+
+##Day15
+
+-Worked on Recipes Data.
+
 ##Technology used:
 -Python
 -Git
