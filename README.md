@@ -94,6 +94,12 @@ MOVES DATA
 
 -Worked on Recipes Data.
 
+##Day16
+
+##Day17
+
+-Date time operation
+
 ##Technology used:
 -Python
 -Git
