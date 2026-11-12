@@ -98,6 +98,9 @@ MOVES DATA
 
 ##Day17
 
+recipes data
+-merge
+
 -Date time operation
 
 ##Technology used:
